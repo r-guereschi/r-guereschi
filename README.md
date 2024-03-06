@@ -23,7 +23,7 @@ Aqui estão alguns projetos em destaque nos quais estou trabalhando ou trabalhei
 
 ## Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-guereschi&layout=compact&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-guereschi&layout=compact&theme=dracula&hide_title=true&langs_count=10)
 
 ## Contribuições
 
