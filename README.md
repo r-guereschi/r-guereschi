@@ -14,7 +14,7 @@ Aqui estão alguns projetos em destaque nos quais estou trabalhando ou trabalhei
 
 - [Alura+](https://github.com/r-guereschi/novo_projeto_alura): Projeto criado durante o curso de HTML e CSS da alura.
 - [BalleBot](https://github.com/r-guereschi/ballebot): Projeto de clone de um site fictício de um bot do discord.
-- [Responsividade](https://github.com/r-guereschi/responsividade-com-mobile-first): Projeto em andamento, treinando e aprimorando minha responsividade com HTML e CSS
+- [Responsividade](https://r-guereschi.github.io/responsividade-com-mobile-first/): Projeto finalizado, treinando e aprimorando minha responsividade com HTML e CSS
 
 ## Contato
 
