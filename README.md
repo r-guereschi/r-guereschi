@@ -16,7 +16,7 @@ Aqui estão alguns projetos em destaque nos quais estou trabalhando ou trabalhei
 - [BalleBot](https://r-guereschi.github.io/ballebot/): Projeto de clone de um site fictício de um bot do discord.
 - [Responsividade](https://r-guereschi.github.io/responsividade-com-mobile-first/): Projeto finalizado, treinando e aprimorando minha responsividade com HTML e CSS.
 - [7daysofcode](https://r-guereschi.github.io/optimustech/): Desafio do 7daysofcode, de uma empresa fictícia de TI.
-- [Pomodoro Timer](https://pomodoro-timer-nu-indol.vercel.app/): Projeto pessoal de um método de estudos chamado [Pomodoro](https://brasilescola.uol.com.br/dicas-de-estudo/tecnica-pomodoro-que-e-e-como-funciona.htm)
+- [Pomodoro Timer](https://pomodoro-timer-nu-indol.vercel.app/): Projeto pessoal de um método de estudo chamado [Pomodoro](https://brasilescola.uol.com.br/dicas-de-estudo/tecnica-pomodoro-que-e-e-como-funciona.htm).
 
 ## Contato
 
