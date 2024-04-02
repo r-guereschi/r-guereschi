@@ -17,6 +17,7 @@ Aqui estão alguns projetos em destaque nos quais estou trabalhando ou trabalhei
 - [Responsividade](https://r-guereschi.github.io/responsividade-com-mobile-first/): Projeto finalizado, treinando e aprimorando minha responsividade com HTML e CSS.
 - [7daysofcode](https://r-guereschi.github.io/optimustech/): Desafio do 7daysofcode, de uma empresa fictícia de TI.
 - [Pomodoro Timer](https://pomodoro-timer-nu-indol.vercel.app/): Projeto pessoal de um método de estudo chamado [Pomodoro](https://brasilescola.uol.com.br/dicas-de-estudo/tecnica-pomodoro-que-e-e-como-funciona.htm).
+- [Número Secreto](https://r-guereschi.github.io/voice.recognition/): Projeto simples em JS usando reconhecimento de voz.
 
 ## Contato
 
