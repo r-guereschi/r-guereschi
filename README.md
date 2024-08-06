@@ -1,6 +1,6 @@
 # Olá, eu sou o Raphael Guereschi! 👋
 
-Bem-vindo ao meu perfil do GitHub! Eu sou um entusiasta da tecnologia apaixonado por desenvolvimento web e programação
+Bem-vindo ao meu perfil do GitHub! Estou atualmente estudando algumas áreas da programação com web development com HTML, CSS e JS. Criação de aplicações para uso no dia a dia usando Python.
 
 ## Sobre mim
 
